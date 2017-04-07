@@ -19,5 +19,6 @@ class Solver:
             else:
                 print('error')
 
-
 Solver().calculate()
+import fun_2
+ss()
